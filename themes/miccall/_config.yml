@@ -6,7 +6,7 @@
 head:
     favicon: "/img/logo_miccall.png"
     keywords: miccall
-    backgroundpic : "images/picx03.jpg"
+    backgroundpic : "/img/bg.png"
 
 Intro:
     name: Collin Lee
