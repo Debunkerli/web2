@@ -24,7 +24,7 @@ Nav:
     icon:
         github: https://github.com/Debunkerli
         onedrive: https://service-9opo924u-1302678538.gz.apigw.tencentcs.com/release/wangpan/
-        onedrivecf: https://lixudongself.eu.org/
+        onedrivecf: https://service-9opo924u-1302678538.gz.apigw.tencentcs.com/release/wangpan/
 
     # pages:                 #这些应该都是在source目录里，没试过
     #     简历: 
