@@ -41,7 +41,7 @@ Nav:
 MainFirst:
     name: Collin Lee
     description: Automation Engineer
-    pic_url: /images/me.jpg
+    pic_url: #/images/me.jpg
     goto_ulr: ""
 
 Gallery :
