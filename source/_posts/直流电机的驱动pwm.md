@@ -15,11 +15,11 @@ thumbnail: https://lixudongself.eu.org/hexo_image/post19.png
 
 ![](https://lixudongself.eu.org/hexo_image/post15.png)
 
-<center>直接驱动</center>
+直接驱动
 
 ![](https://lixudongself.eu.org/hexo_image/post16.png)
 
-<center>H桥驱动</center>
+H桥驱动
 
 这里我们使用单片机开发板自带的资源ULN2002D进行驱动。
 
